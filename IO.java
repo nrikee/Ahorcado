@@ -3,9 +3,6 @@ package com.nrikee.clases_aux;
 /**
  * Reads from a list of words in a new line each one
  * 
- * 
- * Esta obra está licenciada bajo la Licencia Creative Commons Atribución 3.0 Unported. 
- * 
  * https://github.com/nrikee
  */
 import java.io.InputStream;
